@@ -1,4 +1,4 @@
-
+![logo](https://github.com/KavindyaGnanathilake/KavindyaGnanathilake/blob/main/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Kavindya Gnanathilake</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
